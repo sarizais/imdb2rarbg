@@ -41,7 +41,7 @@
         icon.style.textDecoration = 'none';
         icon.style.fontSize = '0.8em';
 
-        icon.href = 'https://rarbgprx.org/torrents.php?imdb=' + movieId;
+        icon.href = 'https://rarbgtor.org/torrents.php?imdb=' + movieId;
         icon.target = '_blank';
     }
 
